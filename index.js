@@ -17,7 +17,7 @@ message.reply({
 
 client.on('interactionCreate',(interaction)=>{
     console.log(interaction);
-    interaction.reply("Pong!!");
+    interaction.reply("Pong go here!");
 
 })
 
