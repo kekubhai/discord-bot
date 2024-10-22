@@ -11,7 +11,7 @@ client.on("messageCreate",(message)=>{
     }
     if(message.author.bot) return;
 message.reply({
-    content:"Hi from anirban",
+    content:"Hi from anirban ghosh",
 });
 });
 
